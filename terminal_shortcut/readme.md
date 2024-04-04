@@ -1,0 +1,2 @@
+terminal open 
+ctrl + backtick
