@@ -1,0 +1,1 @@
+Terminal opening shortcut!!
